@@ -1,0 +1,20 @@
+# File: AI-powered-Resume-and-Job-Matcher/.gitignore
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+.venv/
+env/
+venv/
+
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
